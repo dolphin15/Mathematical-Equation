@@ -1,5 +1,4 @@
 //NIHAN AKINCI
-//160316006
 
 #include <stdio.h>
 #include <stdlib.h>
